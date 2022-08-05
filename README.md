@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BarbaraSalix
-- 👀 I’m interested in human relationships and specially how each ones' work has an impact on their lives.
-- 🌱 I’m currently learning HTML, CSS... and to use a sewing machine!
-- 💞️ I’m looking to collaborate on connecting IT professionals with job opportunities that expand their possibilities.
-- 📫 How to reach me: barbara@salixconsultora.com
+- 👋 Hi there, I’m Barbi.
+- 👀 I’m interested in labour relationships and specially how my job impact others' lives.
+- 🌱 I love reading and am a huge Kindle lover. Yeah, there's nothing like the smell of a book - but Kindle's lightness is fantastic!
+- 💞️ My thing is to collaborate on connecting IT professionals with job opportunities that expand their possibilities.
+- 📫 How to reach me: barbara.macherett@southgeeks.com or https://www.linkedin.com/in/barbaramacherett/
 
 <!---
 BarbaraSalix/BarbaraSalix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
